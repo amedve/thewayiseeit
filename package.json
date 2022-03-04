@@ -1,0 +1,24 @@
+{
+    "author": {
+        "name": "Max Medve"
+    },
+    "name": "thewayiseeit",
+    "displayName": "The Way I See It",
+    "description": "Yet another theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Way I See It",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thewayiseeit-color-theme.json"
+            }
+        ]
+    }
+}
