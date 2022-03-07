@@ -6,6 +6,7 @@
     "displayName": "The Way I See It",
     "description": "Yet another theme.",
     "version": "0.0.1",
+    "publisher": "amedve",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -20,5 +21,10 @@
                 "path": "./themes/thewayiseeit-color-theme.json"
             }
         ]
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/amedve/thewayiseeit.git"
     }
 }
