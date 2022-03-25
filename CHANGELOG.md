@@ -1,3 +1,9 @@
 # Change Log
 
-- Initial WIP release
+## 1.0.0
+
+Release.
+
+## 0.0.1
+
+- Initial WIP release.

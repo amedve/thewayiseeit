@@ -4,8 +4,8 @@
     },
     "name": "thewayiseeit",
     "displayName": "The Way I See It",
-    "description": "Yet another theme.",
-    "version": "0.0.1",
+    "description": "ark theme with colorful semantics to reduce cognitive load when reading a code.",
+    "version": "1.0.0",
     "publisher": "amedve",
     "engines": {
         "vscode": "^1.65.0"
@@ -22,6 +22,15 @@
             }
         ]
     },
+    "icon": "icon.png",
+    "keywords": [
+        "the way",
+        "theway",
+        "the way I see",
+        "the way I see it",
+        "thewayiseeit",
+        "theme"
+    ],
     "license": "MIT",
     "repository": {
         "type": "git",
