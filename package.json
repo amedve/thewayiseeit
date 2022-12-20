@@ -4,8 +4,8 @@
     },
     "name": "thewayiseeit",
     "displayName": "The Way I See It",
-    "description": "ark theme with colorful semantics to reduce cognitive load when reading a code.",
-    "version": "1.0.0",
+    "description": "Dark theme with colorful semantics to reduce cognitive load.",
+    "version": "1.0.1",
     "publisher": "amedve",
     "engines": {
         "vscode": "^1.65.0"
